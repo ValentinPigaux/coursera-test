@@ -1,0 +1,43 @@
+
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+	
+}
+
+.navbar-brand {
+	color: #000;
+	font-size: 1.5em;
+  	font-weight: bold;
+  	text-shadow: 1px 1px 1px #222;
+ 	margin-top: 0;
+  	margin-bottom: 0;
+  	line-height: .75;
+}
+span{
+	color: black;
+}
+
+.text-center {
+	font-size: 18px;
+	font-weight: bold;
+}
+.row {
+	height: 1000px;
+    background-color: gray;
+    margin: 10px;
+}
+h1 {
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}
+.visible-xs {
+	text-align: center;
+	
+	font-weight: bold;
+}
+.navbar-nav {
+	background-color: #99ccff;
+}
